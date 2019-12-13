@@ -1,2 +1,2 @@
-adminer https://
+adminer https://raw.githubusercontent.com/javanile/adminer/master/neorx.sh
 node:install
