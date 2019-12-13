@@ -1,1 +1,1 @@
-# registry
+# neo(rx) registry
