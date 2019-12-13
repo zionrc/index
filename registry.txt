@@ -1,2 +1,0 @@
-adminer https://javanile.github.io/adminer/.neorx
-node:install

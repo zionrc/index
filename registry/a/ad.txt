@@ -1,0 +1,1 @@
+adminer https://javanile.github.io/adminer/.neorx
