@@ -7,7 +7,7 @@ Edit one of the tag files based on your tag first two symbol
 ```bash
 .
 .
-mytag domain.com/directory/file
+mytag https://domain.com/directory/file signature
 .
 . 
 ```
