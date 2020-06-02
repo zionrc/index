@@ -1,7 +1,6 @@
 # Zion(rc) registry
 
-> **[🐇 follow the white rabbit](https://dev.to/francescobianco/matrix-public-task-runner-1ek2)**
-
+**[🐇 Follow the white rabbit.](https://dev.to/francescobianco/matrix-public-task-runner-1ek2)**
 
 ## Add tag record
 
