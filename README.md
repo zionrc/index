@@ -1,4 +1,4 @@
-# Zion(rc) registry
+# Zion(rc) index
 
 🐇 **[`Follow the white rabbit.`](https://dev.to/francescobianco/matrix-public-task-runner-1ek2)**
 
